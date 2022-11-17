@@ -1,6 +1,6 @@
 <form action="/action_page.php">
-	<title>DevOps Project from Udemy </title>
-	<h2>Register Form</h2>
+	<h1><title>DevOps Project from Udemy </title></h1>
+	
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">

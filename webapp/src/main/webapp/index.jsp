@@ -1,5 +1,5 @@
 <form action="/action_page.php">
-	<h1><title>DevOps Project from Udemy </title></h1>
+	<h1>DevOps Project from Udemy</h1>
 	
   <div class="input-container">
     <i class="fa fa-user icon"></i>
